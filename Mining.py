@@ -23,7 +23,7 @@ if __name__ == "__main__":
         if hashValue[0:4]=='0000':
             print(hashValue)
             loop=False
-            print(f"finally found the hash, hash value is {hashValue}")
+            print(f"finally found the hash!!!!, value is {hashValue}")
         i+=1
 
 
