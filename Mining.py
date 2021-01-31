@@ -15,7 +15,7 @@ if __name__ == "__main__":
     john->prince->30
     levin->shawn->50
     '''
-#previous hash value :  00003c5b1ea1348d3e910891f7154b2e66504fcf02cd7bf1972736ec1e35c2ae
+#previous hash value :  00003c5b1ea1348d3e910891f7154b2e66504fcf02cd7bf1972736ec1e35c2ae   ABC
     i=1
     loop=True
     while loop:
